@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="dashboard.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <title>Fabflix Admin</title>
+</head>
+<body>
+<div style="width: 100%;">
+    <div id="top-left-div"><h1 id="home-link"><a href="main.html">Home</a></h1></div>
+    <div id="top-mid-left-div"><h1 id="search-header"><a href="search.html">Search</a></h1></div>
+    <div id="top-mid-right-div"><h1 id="browse-header"><a href="browse.html">Browse</a></h1></div>
+    <div id="top-right-div"><a id="check-out" href="checkout.html"><h3>Checkout</h3></a></div>
+</div>
+
+<div id="flex-box">
+    <div id="adding-forms">
+        <div style="width: 40%; margin: auto;">
+            <form id="add-star-params" ACTION="#" METHOD="POST">
+                <h6>Star Name:</h6><input class="input-box" TYPE="TEXT" name="name"> <br>
+                <h6>Birth Year:</h6><input class="input-box" TYPE="TEXT" name="birthYear"> <br>
+
+                <input type="hidden" name="type" value="star" />
+
+                <input TYPE="SUBMIT" VALUE="Add Star">
+            </form>
+        </div>
+        <div style="width: 40%; margin: auto;">
+            <form id="add-movie-params" ACTION="#" METHOD="POST">
+                <h6>Movie Title:</h6><input class="input-box" TYPE="TEXT" name="title"> <br>
+                <h6>Movie Year:</h6><input class="input-box" TYPE="TEXT" name="year"> <br>
+                <h6>Movie Director:</h6><input class="input-box" TYPE="TEXT" name="director"> <br>
+                <h6>Movie Star Name:</h6><input class="input-box" TYPE="TEXT" name="star_name"> <br>
+                <h6>Movie Genre:</h6><input class="input-box" TYPE="TEXT" name="genre"> <br>
+
+                <input type="hidden" name="type" value="movie" />
+
+                <input TYPE="SUBMIT" VALUE="Add Movie">
+            </form>
+        </div>
+    </div>
+    <div id=metadata_table></div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+<script type='text/javascript' src='_dashboard.js?v=1'></script>
+</body>
+</html>

@@ -1,0 +1,73 @@
+#star_table{
+    color: aliceblue;
+    padding: 0px 30px;
+    /*background-color: #355070;*/
+    /*border-radius:6px !important;*/
+}
+.table{
+    width: 70%;
+    margin: auto;
+}
+.table th{
+    border-top: none !important;
+}
+body {
+    /*height: 200px;*/
+    background-color: #141E30; /* For browsers that do not support gradients */
+    /*background-image: linear-gradient(to bottom right, #141E30, #243B55);*/
+}
+h1   {padding-top: 50px; padding-bottom: 20px; text-align: center; font-family: 'Fredoka One', cursive;}
+h1 a:visited{
+    color: white;
+}
+h1 a:hover{
+    color: palevioletred !important;
+    text-decoration: none;
+}
+/*h1 a:visited {*/
+/*    color: white;*/
+/*}*/
+a:link {
+    color: white;
+}
+a:visited {
+    color: darkgrey;
+}
+a:hover {
+    color: palevioletred;
+    text-decoration: none;
+}
+
+#go-back-header {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    width: 100%;
+}
+
+#check-out{
+    float: right;
+    padding: 42px;
+    height: 20px;
+    padding-right: 50px;
+}
+
+#top-left-div {
+    width: 33%;
+    height: 100px;
+    float: left;
+}
+
+#top-mid-div {
+    width: 33%;
+    height: 100px;
+    float: left;
+}
+
+#top-right-div {
+    width: 33%;
+    height: 100px;
+    float: left;
+}

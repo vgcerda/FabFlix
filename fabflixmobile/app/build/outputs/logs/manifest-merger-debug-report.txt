@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/elmo/.gradle/caches/transforms-3/cf1c979244eaa228bc0ae3f87a6d75e5/transformed/appcompat-v7-21.0.3/AndroidManifest.xml:14:4-17:12
+MERGED from [com.google.android.gms:play-services-safetynet:15.0.1] /Users/elmo/.gradle/caches/transforms-3/3e33b91b905ff669790c976044e11c9e/transformed/play-services-safetynet-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elmo/.gradle/caches/transforms-3/d0e1270c5a82ffc6b8cdcc579acaa49d/transformed/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/elmo/.gradle/caches/transforms-3/d32246eddf100cb1a53adb4781b3419c/transformed/play-services-tasks-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/elmo/.gradle/caches/transforms-3/63cae8969b6ce43bcf0af5aa1c0b5aef/transformed/play-services-basement-15.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/73d2624144e657f76e571c1450e66c0e/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/elmo/.gradle/caches/transforms-3/38e49c125f897bf5d18d9e639bb96405/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/elmo/.gradle/caches/transforms-3/7677cdb949d0ee30ca93c843897b3e05/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/elmo/.gradle/caches/transforms-3/3ca8c321ab62f09b2a659281cdad8480/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/17965efa355cfb975f349bd337139a7d/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/elmo/.gradle/caches/transforms-3/641b865e8d89cd37c9d5a9208c677c36/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:3:11-34
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/elmo/.gradle/caches/transforms-3/cf1c979244eaa228bc0ae3f87a6d75e5/transformed/appcompat-v7-21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/elmo/.gradle/caches/transforms-3/cf1c979244eaa228bc0ae3f87a6d75e5/transformed/appcompat-v7-21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:15.0.1] /Users/elmo/.gradle/caches/transforms-3/3e33b91b905ff669790c976044e11c9e/transformed/play-services-safetynet-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:15.0.1] /Users/elmo/.gradle/caches/transforms-3/3e33b91b905ff669790c976044e11c9e/transformed/play-services-safetynet-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elmo/.gradle/caches/transforms-3/d0e1270c5a82ffc6b8cdcc579acaa49d/transformed/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elmo/.gradle/caches/transforms-3/d0e1270c5a82ffc6b8cdcc579acaa49d/transformed/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/elmo/.gradle/caches/transforms-3/d32246eddf100cb1a53adb4781b3419c/transformed/play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/elmo/.gradle/caches/transforms-3/d32246eddf100cb1a53adb4781b3419c/transformed/play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/elmo/.gradle/caches/transforms-3/63cae8969b6ce43bcf0af5aa1c0b5aef/transformed/play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/elmo/.gradle/caches/transforms-3/63cae8969b6ce43bcf0af5aa1c0b5aef/transformed/play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/73d2624144e657f76e571c1450e66c0e/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/73d2624144e657f76e571c1450e66c0e/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/elmo/.gradle/caches/transforms-3/38e49c125f897bf5d18d9e639bb96405/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/elmo/.gradle/caches/transforms-3/38e49c125f897bf5d18d9e639bb96405/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/elmo/.gradle/caches/transforms-3/7677cdb949d0ee30ca93c843897b3e05/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/elmo/.gradle/caches/transforms-3/7677cdb949d0ee30ca93c843897b3e05/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/elmo/.gradle/caches/transforms-3/3ca8c321ab62f09b2a659281cdad8480/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/elmo/.gradle/caches/transforms-3/3ca8c321ab62f09b2a659281cdad8480/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/17965efa355cfb975f349bd337139a7d/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/17965efa355cfb975f349bd337139a7d/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/elmo/.gradle/caches/transforms-3/641b865e8d89cd37c9d5a9208c677c36/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/elmo/.gradle/caches/transforms-3/641b865e8d89cd37c9d5a9208c677c36/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:9:13-45
+	android:icon
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:8:13-47
+	android:allowBackup
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:7:13-39
+	android:theme
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:12:13-44
+	android:usesCleartextTraffic
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:11:13-48
+activity#fabflixmobile.Login
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:15:17-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:20:27-74
+activity#fabflixmobile.SearchViewActivity
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:23:9-65
+	android:name
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:23:19-53
+activity#fabflixmobile.ListViewActivity
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:24:9-63
+	android:name
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:24:19-51
+activity#fabflixmobile.SingleMovieViewActivity
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:25:9-70
+	android:name
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:25:19-58
+uses-library#org.apache.http.legacy
+ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:27:9-87
+	android:required
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:27:61-85
+	android:name
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml:27:23-60
+uses-sdk
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/elmo/.gradle/caches/transforms-3/cf1c979244eaa228bc0ae3f87a6d75e5/transformed/appcompat-v7-21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/elmo/.gradle/caches/transforms-3/cf1c979244eaa228bc0ae3f87a6d75e5/transformed/appcompat-v7-21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:15.0.1] /Users/elmo/.gradle/caches/transforms-3/3e33b91b905ff669790c976044e11c9e/transformed/play-services-safetynet-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:15.0.1] /Users/elmo/.gradle/caches/transforms-3/3e33b91b905ff669790c976044e11c9e/transformed/play-services-safetynet-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elmo/.gradle/caches/transforms-3/d0e1270c5a82ffc6b8cdcc579acaa49d/transformed/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elmo/.gradle/caches/transforms-3/d0e1270c5a82ffc6b8cdcc579acaa49d/transformed/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/elmo/.gradle/caches/transforms-3/d32246eddf100cb1a53adb4781b3419c/transformed/play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/elmo/.gradle/caches/transforms-3/d32246eddf100cb1a53adb4781b3419c/transformed/play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/elmo/.gradle/caches/transforms-3/63cae8969b6ce43bcf0af5aa1c0b5aef/transformed/play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/elmo/.gradle/caches/transforms-3/63cae8969b6ce43bcf0af5aa1c0b5aef/transformed/play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/73d2624144e657f76e571c1450e66c0e/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/73d2624144e657f76e571c1450e66c0e/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/elmo/.gradle/caches/transforms-3/38e49c125f897bf5d18d9e639bb96405/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/elmo/.gradle/caches/transforms-3/38e49c125f897bf5d18d9e639bb96405/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/elmo/.gradle/caches/transforms-3/7677cdb949d0ee30ca93c843897b3e05/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/elmo/.gradle/caches/transforms-3/7677cdb949d0ee30ca93c843897b3e05/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/elmo/.gradle/caches/transforms-3/3ca8c321ab62f09b2a659281cdad8480/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/elmo/.gradle/caches/transforms-3/3ca8c321ab62f09b2a659281cdad8480/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/17965efa355cfb975f349bd337139a7d/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/17965efa355cfb975f349bd337139a7d/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/elmo/.gradle/caches/transforms-3/641b865e8d89cd37c9d5a9208c677c36/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/elmo/.gradle/caches/transforms-3/641b865e8d89cd37c9d5a9208c677c36/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/elmo/.gradle/caches/transforms-3/7b72a5a0c021d4af51a0c390cd84f2ce/transformed/play-services-base-15.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/elmo/.gradle/caches/transforms-3/63cae8969b6ce43bcf0af5aa1c0b5aef/transformed/play-services-basement-15.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/elmo/.gradle/caches/transforms-3/63cae8969b6ce43bcf0af5aa1c0b5aef/transformed/play-services-basement-15.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/elmo/.gradle/caches/transforms-3/63cae8969b6ce43bcf0af5aa1c0b5aef/transformed/play-services-basement-15.0.1/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/73d2624144e657f76e571c1450e66c0e/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/73d2624144e657f76e571c1450e66c0e/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/elmo/.gradle/caches/transforms-3/38e49c125f897bf5d18d9e639bb96405/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/elmo/.gradle/caches/transforms-3/38e49c125f897bf5d18d9e639bb96405/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/elmo/.gradle/caches/transforms-3/7677cdb949d0ee30ca93c843897b3e05/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/elmo/.gradle/caches/transforms-3/7677cdb949d0ee30ca93c843897b3e05/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/elmo/.gradle/caches/transforms-3/3ca8c321ab62f09b2a659281cdad8480/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/elmo/.gradle/caches/transforms-3/3ca8c321ab62f09b2a659281cdad8480/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/17965efa355cfb975f349bd337139a7d/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/elmo/.gradle/caches/transforms-3/17965efa355cfb975f349bd337139a7d/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/elmo/.gradle/caches/transforms-3/76b6fd0749ed3c32d8d4f9f57b4894c8/transformed/support-v4-26.1.0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/elmo/.gradle/caches/transforms-3/641b865e8d89cd37c9d5a9208c677c36/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/elmo/.gradle/caches/transforms-3/641b865e8d89cd37c9d5a9208c677c36/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/elmo/.gradle/caches/transforms-3/641b865e8d89cd37c9d5a9208c677c36/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58

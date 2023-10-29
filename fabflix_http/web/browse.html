@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="browse.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <title>Fabflix</title>
+</head>
+<body>
+<div style="width: 100%;">
+    <div id="top-left-div"><h1 id="home-link"><a href="main.html">Home</a></h1></div>
+    <div id="top-mid-left-div"><h1 id="search-header"><a href="search.html">Search</a></h1></div>
+    <div id="top-mid-right-div"><h1 id="browse-header"><a href="browse.html">Browse</a></h1></div>
+    <div id="top-right-div"><a id="check-out" href="checkout.html"><h3>Checkout</h3></a></div>
+</div>
+<table id=genre_table class="table table-striped">
+    <!-- Create a table header -->
+    <caption>Browse By Genre</caption>
+    <!-- Table body is left empty here, will be populated with the data retrieved with index.js -->
+    <!-- Again, id "star_table_body" is useful for jQuery to find this html element -->
+    <tbody id=browse_table_body></tbody>
+</table>
+<br>
+<br>
+<table id=title_prefix_table class="table table-striped">
+    <!-- Create a table header -->
+    <caption>Browse By Title</caption>
+    <!-- Table body is left empty here, will be populated with the data retrieved with index.js -->
+    <!-- Again, id "star_table_body" is useful for jQuery to find this html element -->
+    <tbody>
+    <tr>
+        <th><a href="index.html?type=browse&by=title&titlestart=A">A</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=B">B</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=C">C</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=D">D</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=E">E</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=F">F</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=G">G</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=H">H</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=I">I</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=J">J</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=K">K</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=L">L</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=M">M</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=N">N</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=O">O</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=P">P</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=Q">Q</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=R">R</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=S">S</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=T">T</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=U">U</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=V">V</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=W">W</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=X">X</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=Y">Y</a></th>
+        <th><a href="index.html?type=browse&by=title&titlestart=Z">Z</a></th>
+        </tr>
+        <tr>
+            <th><a href="index.html?type=browse&by=title&titlestart=0">0</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=1">1</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=2">2</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=3">3</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=4">4</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=5">5</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=6">6</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=7">7</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=8">8</a></th>
+            <th><a href="index.html?type=browse&by=title&titlestart=9">9</a></th>
+        </th></tr>
+        <tr><th>
+        <a href="index.html?type=browse&by=title&titlestart=*">*</a>
+        </th></tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+<!-- Load jQuery and Bootstrap JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="browse.js?v=1"></script>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+fabflixmobile/BuildConfig.java
+ fabflixmobile.BuildConfig
+fabflixmobile/NukeSSLCerts.java
+ fabflixmobile.NukeSSLCerts
+ fabflixmobile.NukeSSLCerts$1
+fabflixmobile/Movie.java
+ fabflixmobile.Movie
+fabflixmobile/MovieListViewAdapter.java
+ fabflixmobile.MovieListViewAdapter
+fabflixmobile/NetworkManager.java
+ fabflixmobile.NetworkManager
+fabflixmobile/SingleMovieViewActivity.java
+ fabflixmobile.SingleMovieViewActivity
+fabflixmobile/ListViewActivity.java
+ fabflixmobile.ListViewActivity
+ fabflixmobile.ListViewActivity$1
+ fabflixmobile.ListViewActivity$2
+fabflixmobile/Login.java
+ fabflixmobile.Login
+ fabflixmobile.Login$1
+fabflixmobile/SearchViewActivity.java
+ fabflixmobile.SearchViewActivity
+ fabflixmobile.SearchViewActivity$1

@@ -1,0 +1,132 @@
+body {
+    /*height: 200px;*/
+    background-color: #141E30; /* For browsers that do not support gradients */
+    /*background-image: linear-gradient(to bottom right, #141E30, #243B55);*/
+}
+h1   {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    width: 100%;
+}
+
+h6   {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    width: 100%;
+}
+
+a{
+    color:white;
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color:white;
+}
+a:hover {
+    color: palevioletred;
+    text-decoration: none;
+}
+
+#home-link {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    width: 100%;
+    padding-left: 50px;
+}
+
+#search-params {
+    font-family: 'Fredoka One', cursive;
+    color: white;
+}
+
+#search-header {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    width: 100%;
+}
+
+#browse-header {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    width: 100%;
+}
+
+#check-out{
+    float: right;
+    padding: 42px;
+    height: 20px;
+    padding-right: 50px;
+}
+
+#top-left-div {
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+
+#top-mid-left-div {
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+#top-mid-right-div {
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+
+#top-right-div {
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+
+.input-box{
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#metadata_table{
+    float: right;
+    width: 50%;
+}
+
+#metadata_table .table{
+    color: aliceblue;
+    float: left;
+    width: 20% !important;
+    margin: 10px;
+}
+
+#metadata_table caption{
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    color: aliceblue;
+    text-align: left;
+    caption-side: top;
+}
+
+/*#flex-box{*/
+/*    display:flex;*/
+/*    flex-direction: row;*/
+/*}*/
+#adding-forms{
+    float: left;
+    width: 50%;
+}

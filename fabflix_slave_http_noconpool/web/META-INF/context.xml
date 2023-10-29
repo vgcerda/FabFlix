@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Context>
+    <Resource name="jdbc/read"
+              auth="Container"
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              type="javax.sql.DataSource"
+              username="mytestuser"
+              password="Team!!50"
+              url="jdbc:mysql://localhost:3306/moviedb"/>
+
+    <Resource name="jdbc/write"
+              auth="Container"
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              type="javax.sql.DataSource"
+              username="mytestuser"
+              password="Team!!50"
+              url="jdbc:mysql://172.31.24.116:3306/moviedb"/>
+</Context>

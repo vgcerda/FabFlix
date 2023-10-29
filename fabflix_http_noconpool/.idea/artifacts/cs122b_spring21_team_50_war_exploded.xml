@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cs122b-spring21-team-50:war exploded">
+    <output-path>$PROJECT_DIR$/target/cs122b-spring21-team-50</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>cs122b-spring21-team-50</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cs122b-spring21-team-50" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.23" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.2" />
+          <element id="library" level="project" name="Maven: org.jasypt:jasypt:1.9.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/cs122b-spring21-team-50/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="cs122b-spring21-team-50/web/Web" />
+    </root>
+  </artifact>
+</component>

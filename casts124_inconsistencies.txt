@@ -1,0 +1,1209 @@
+Entry with movie title 'shrek' not found in database
+Entry with movie title 'leave it to beaver' not found in database
+Entry with movie title 'the kiss-off' not found in database
+Entry with movie title 'y tu mama tambien' not found in database
+Entry with movie title 'repo man' not found in database
+Entry with movie title 'sid and nancy' not found in database
+Entry with movie title 'putting pants on philip' not found in database
+Entry with movie title 'it's the old army game' not found in database
+Entry with movie title 'diamond jim' not found in database
+Entry with movie title 'international house' not found in database
+Entry with movie title 'the flying deuces' not found in database
+Entry with movie title 'the invisible woman' not found in database
+Entry with movie title 'one night in the tropics' not found in database
+Entry with movie title 'follow the boys' not found in database
+Entry with star name 'Antonin Artaud' in movie 'napoleon' is a duplicate insert entry
+Entry with star name 'Pierre Batcheff' in movie 'napoleon' is a duplicate insert entry
+Entry with star name 'Albert Dieudonne' in movie 'napoleon' is a duplicate insert entry
+Entry with movie title 'love letters' not found in database
+Entry with movie title 'magic mountain' not found in database
+Entry with movie title 'marius' not found in database
+Entry with movie title 'the private life of henry viii' not found in database
+Entry with movie title 'the private life of don juan' not found in database
+Entry with movie title 'that hamilton woman' not found in database
+Entry with star name 'Leif Erickson' in movie 'the snake pit' is a duplicate insert entry
+Entry with star name 'Regina Carrol' in movie 'jessi's girls' is a duplicate insert entry
+Entry with movie title 'charley's aunt' not found in database
+Entry with movie title 'look who's talking' not found in database
+Entry with movie title 'highlander, the final dimension' not found in database
+Entry with movie title 'steelyard blues' not found in database
+Entry with movie title 'private lessons' not found in database
+Entry with movie title 'police academy 5' not found in database
+Entry with movie title 'police academy 6' not found in database
+Entry with movie title 'it could happen to you' not found in database
+Entry with movie title 'midnight express' not found in database
+Entry with movie title 'midnight express' not found in database
+Entry with movie title 'fame' not found in database
+Entry with movie title 'shoot the moon' not found in database
+Entry with movie title 'mississippi burning' not found in database
+Entry with movie title 'come see the paradise' not found in database
+Entry with movie title 'the commitments' not found in database
+Entry with movie title 'evita' not found in database
+Entry with movie title 'last year iat marienbad' not found in database
+Entry with movie title '\und' not found in database
+Entry with movie title 'lady godiva' not found in database
+Entry with movie title 'deadline' not found in database
+Entry with movie title 'frenzy' not found in database
+Entry with movie title 'golden rendezvous' not found in database
+Entry with movie title 'the chosen one (shandou)' not found in database
+Entry with movie title 'hilary and jackie' not found in database
+Entry with movie title 'map of love' not found in database
+Entry with movie title 'a cold wind in august' not found in database
+Entry with movie title 'the blue lamp' not found in database
+Entry with movie title 'who done it' not found in database
+Entry with movie title 'the league of gentlemen' not found in database
+Entry with movie title 'all night long' not found in database
+Entry with movie title 'victim' not found in database
+Entry with movie title 'masquerade' not found in database
+Entry with movie title 'the man who haunted himself' not found in database
+Entry with movie title 'the goldiggers of 1935' not found in database
+Entry with movie title 'breakdown' not found in database
+Entry with movie title 'deathdream' not found in database
+Entry with movie title 'murder by decree' not found in database
+Entry with movie title 'tribute' not found in database
+Entry with movie title 'porky's' not found in database
+Entry with movie title 'a christmas story' not found in database
+Entry with movie title 'this happy feeling' not found in database
+Entry with movie title 'breakfast at tiffany's' not found in database
+Entry with movie title 'experiment in terror' not found in database
+Entry with movie title 'days of wine and roses' not found in database
+Entry with movie title 'the pink panther' not found in database
+Entry with movie title 'a shot in the dark' not found in database
+Entry with movie title 'the party' not found in database
+Entry with movie title 'tamarind seed' not found in database
+Entry with movie title 'the return of the pink panther' not found in database
+Entry with movie title 'the pink panther strikes again' not found in database
+Entry with movie title 'revenge of the pink panther' not found in database
+Entry with movie title '10' not found in database
+Entry with movie title 's.o.b.' not found in database
+Entry with movie title 'victor/victoria' not found in database
+Entry with movie title 'trail of the pink panther' not found in database
+Entry with movie title 'curse of the pink panther' not found in database
+Entry with movie title 'the man who loved women' not found in database
+Entry with movie title 'skin deep' not found in database
+Entry with movie title 'switch' not found in database
+Entry with movie title 'son of the pink panther' not found in database
+Entry with movie title 'son of the pink panther' not found in database
+Entry with movie title 'the saboteur, code name morituri' not found in database
+Entry with movie title 'whistle down the wind' not found in database
+Entry with movie title 'seance on a wet afternoon' not found in database
+Entry with movie title 'king rat' not found in database
+Entry with movie title 'the stepford wives' not found in database
+Entry with movie title 'the slipper and the rose' not found in database
+Entry with movie title 'international velvet' not found in database
+Entry with movie title 'the east side kids' not found in database
+Entry with movie title 'return to me' not found in database
+Entry with movie title 'the house of spirits' not found in database
+Entry with movie title 'gregory's girl' not found in database
+Entry with movie title 'local hero' not found in database
+Entry with movie title 'being human' not found in database
+Entry with movie title 'the mad bomber' not found in database
+Entry with movie title 'mortal sins' not found in database
+Entry with movie title 'parents' not found in database
+Entry with movie title 'the last good time' not found in database
+Entry with movie title 'wine' not found in database
+Entry with movie title 'poltergeist ii' not found in database
+Entry with movie title 'the josephine baker story' not found in database
+Entry with movie title 'what's love got to do with it' not found in database
+Entry with movie title 'the juror' not found in database
+Entry with star name 'David McCallum' in movie 'the karate killers' is a duplicate insert entry
+Entry with star name 'Robert Vaughn' in movie 'the karate killers' is a duplicate insert entry
+Entry with star name 'Leo G. McCarroll' in movie 'the karate killers' is a duplicate insert entry
+Entry with movie title 'june bride' not found in database
+Entry with movie title 'the enforcer' not found in database
+Entry with movie title 'casino royale' not found in database
+Entry with movie title 'the pied piper of hamelin' not found in database
+Entry with movie title 'the avon emeralds' not found in database
+Entry with movie title 'cheap is cheap' not found in database
+Entry with star name 'Michael Tucker' in movie 'for love or money' is a duplicate insert entry
+Entry with star name 'Anthony Higgins' in movie 'for love or money' is a duplicate insert entry
+Entry with star name 'Gabrielle Anwar' in movie 'for love or money' is a duplicate insert entry
+Entry with star name 'Will Smith' in movie 'wild wild west' is a duplicate insert entry
+Entry with movie title 'dial m for murder' not found in database
+Entry with movie title 'night gallery' not found in database
+Entry with movie title 'convict 13' not found in database
+Entry with movie title 'the scarecrow' not found in database
+Entry with movie title 'neighbors' not found in database
+Entry with movie title 'the goat' not found in database
+Entry with movie title 'the haunted house' not found in database
+Entry with movie title 'hard luck' not found in database
+Entry with movie title 'the high sign' not found in database
+Entry with movie title 'the playhouse' not found in database
+Entry with movie title 'the boat' not found in database
+Entry with movie title 'the paleface' not found in database
+Entry with movie title 'the blacksmith' not found in database
+Entry with movie title 'cops' not found in database
+Entry with movie title 'the electric house' not found in database
+Entry with movie title 'my wife's relations' not found in database
+Entry with movie title 'the frozen north' not found in database
+Entry with movie title 'day dreams' not found in database
+Entry with movie title 'the three ages' not found in database
+Entry with movie title 'the three ages' not found in database
+Entry with movie title 'the love nest' not found in database
+Entry with movie title 'our hospitality' not found in database
+Entry with movie title 'sherlock jr.' not found in database
+Entry with movie title 'the navigator' not found in database
+Entry with movie title 'seven chances' not found in database
+Entry with movie title 'go west' not found in database
+Entry with movie title 'estrallos' not found in database
+Entry with movie title 'battling butler' not found in database
+Entry with movie title 'life in sometown, usa' not found in database
+Entry with movie title 'hollywood handicap' not found in database
+Entry with movie title 'streamlined swing' not found in database
+Entry with star name 'Gerard Depardieu' in movie 'going places' is a duplicate insert entry
+Entry with movie title 'love me deadly' not found in database
+Entry with movie title 'gator' not found in database
+Entry with movie title 'the end' not found in database
+Entry with movie title 'sharky's machine' not found in database
+Entry with movie title 'cop and a half' not found in database
+Entry with movie title 'ace in the hole' not found in database
+Entry with movie title 'i walk alone' not found in database
+Entry with movie title 'treasure island' not found in database
+Entry with movie title 'tarzan's peril' not found in database
+Entry with movie title 'long john silver' not found in database
+Entry with movie title 'war of the worlds' not found in database
+Entry with movie title 'the naked jungle' not found in database
+Entry with movie title 'from the earth to the moon' not found in database
+Entry with movie title 'robinson crusoe on mars' not found in database
+Entry with movie title 'one false move' not found in database
+Entry with movie title 'black stallion' not found in database
+Entry with movie title 'never cry wolf' not found in database
+Entry with movie title 'wild hearts' not found in database
+Entry with movie title 'easy street' not found in database
+Entry with movie title 'the goldrush' not found in database
+Entry with movie title 'circus' not found in database
+Entry with movie title 'the goldrush' not found in database
+Entry with movie title 'a countess from hongkong' not found in database
+Entry with movie title 'adventures in babysitting' not found in database
+Entry with movie title 'what's new pussycat?' not found in database
+Entry with movie title 'luv' not found in database
+Entry with movie title 'old dracula' not found in database
+Entry with movie title 'vampira' not found in database
+Entry with movie title 'the thief of bagdad' not found in database
+Entry with movie title 'charlie chan and the curse of the dragon queen' not found in database
+Entry with movie title 'a christmas carol' not found in database
+Entry with movie title 'tarzan and his mate' not found in database
+Entry with movie title 'tarzan and his mate' not found in database
+Entry with movie title 'body talk)' not found in database
+Entry with movie title 'one-run elmer' not found in database
+Entry with movie title 'un homme et une femme' not found in database
+Entry with star name 'Stephane Audran' in movie 'la femme infidele' is a duplicate insert entry
+Entry with star name 'Michel Bouquet' in movie 'la femme infidele' is a duplicate insert entry
+Entry with movie title 'the beast must die' not found in database
+Entry with movie title 'the little thief' not found in database
+Entry with movie title 'the accompanist' not found in database
+Entry with movie title 'obelisk' not found in database
+Entry with movie title 'memento' not found in database
+Entry with movie title 'strom fear' not found in database
+Entry with movie title 'maracaibo' not found in database
+Entry with movie title 'lancelot and guinevere' not found in database
+Entry with movie title 'the naked prey' not found in database
+Entry with movie title 'beach red' not found in database
+Entry with movie title 'no blade of grass' not found in database
+Entry with movie title 'shark's treasure' not found in database
+Entry with movie title 'high season' not found in database
+Entry with movie title 'rough magic' not found in database
+Entry with movie title 'the night train to munich' not found in database
+Entry with movie title 'kipps' not found in database
+Entry with movie title 'the young mr.~pitt' not found in database
+Entry with movie title 'the way ahead' not found in database
+Entry with movie title 'odd man out' not found in database
+Entry with movie title 'the fallen idol' not found in database
+Entry with movie title 'the third man' not found in database
+Entry with movie title 'an outcast of the islands' not found in database
+Entry with movie title 'the man between' not found in database
+Entry with movie title 'our man in havana' not found in database
+Entry with movie title 'seven capital sins' not found in database
+Entry with movie title 'shaggy dog' not found in database
+Entry with movie title 'la discrete' not found in database
+Entry with movie title 'la seperation' not found in database
+Entry with movie title 'tarzan's peril' not found in database
+Entry with movie title 'the count of monte christo' not found in database
+Entry with movie title 'gray lady down' not found in database
+Entry with movie title 'what ever happend to baby jane?' not found in database
+Entry with movie title 'le retour de martin guerre' not found in database
+Entry with movie title 'an american tail 2' not found in database
+Entry with movie title 'peer gynt' not found in database
+Entry with movie title 'rabid' not found in database
+Entry with movie title 'the brood' not found in database
+Entry with movie title 'scanners' not found in database
+Entry with movie title 'the dead zone' not found in database
+Entry with movie title 'videodrome' not found in database
+Entry with movie title 'fast company' not found in database
+Entry with movie title 'the fly' not found in database
+Entry with movie title 'dead ringers' not found in database
+Entry with movie title 'naked lunch' not found in database
+Entry with movie title 'm.butterfly' not found in database
+Entry with movie title 'crash' not found in database
+Entry with movie title 'existenz' not found in database
+Entry with movie title 'payday' not found in database
+Entry with movie title 'the silent partner' not found in database
+Entry with movie title 'throw momma from the train' not found in database
+Entry with movie title 'the war of the roses' not found in database
+Entry with movie title 'hoffa' not found in database
+Entry with movie title 'man of the year' not found in database
+Entry with movie title 'entre nous' not found in database
+Entry with movie title 'coup de foudre' not found in database
+Entry with movie title 'apres l'amour' not found in database
+Entry with movie title 'the concorde --- airport 79' not found in database
+Entry with movie title 'the brothers' not found in database
+Entry with movie title 'christopher columbus' not found in database
+Entry with movie title 'the moonraker' not found in database
+Entry with movie title 'the blair witch project' not found in database
+Entry with movie title 'the good woman of bangkok' not found in database
+Entry with movie title 'the face of fu manchu' not found in database
+Entry with movie title 'psychomania' not found in database
+Entry with movie title 'psychomania' not found in database
+Entry with movie title 'the thirty-nine steps' not found in database
+Entry with movie title 'jinxed' not found in database
+Entry with movie title 'paternity' not found in database
+Entry with movie title 'how to succed in business without really trying' not found in database
+Entry with movie title 'the birth of a nation' not found in database
+Entry with movie title 'the naked gun 2 1/2: the smell of fear' not found in database
+Entry with movie title 'the camaraman' not found in database
+Entry with movie title 'glen and glenda' not found in database
+Entry with movie title 'glen and glenda' not found in database
+Entry with movie title 'chesty anderson, u.s. navy' not found in database
+Entry with movie title 'scaramouche' not found in database
+Entry with movie title 'holiday' not found in database
+Entry with movie title 'the animal kingdom' not found in database
+Entry with movie title 'next time we love' not found in database
+Entry with movie title 'safari' not found in database
+Entry with movie title 'young and willing' not found in database
+Entry with movie title 'the sky's the limit' not found in database
+Entry with movie title 'a tree grows in brooklyn' not found in database
+Entry with movie title 'america, america' not found in database
+Entry with movie title 'boomerang' not found in database
+Entry with movie title 'gentleman's agreement' not found in database
+Entry with movie title 'panic in the streets' not found in database
+Entry with movie title 'a streetcar named desire' not found in database
+Entry with movie title 'viva zapata' not found in database
+Entry with movie title 'on the waterfront' not found in database
+Entry with movie title 'east of eden' not found in database
+Entry with movie title 'baby doll' not found in database
+Entry with movie title 'a face in the crowd' not found in database
+Entry with movie title 'splendor in the grass' not found in database
+Entry with movie title 'the arrangement' not found in database
+Entry with movie title 'the last tycoon' not found in database
+Entry with movie title 'spain' not found in database
+Entry with movie title 'time of the gypsies' not found in database
+Entry with movie title 'the death kiss' not found in database
+Entry with movie title 'a christmas carol' not found in database
+Entry with movie title 'maisie' not found in database
+Entry with movie title 'gold rush maisie' not found in database
+Entry with movie title 'maisie was a lady' not found in database
+Entry with movie title 'show business' not found in database
+Entry with movie title 'tall in the saddle' not found in database
+Entry with movie title 'johnny angel' not found in database
+Entry with movie title 'lady luck' not found in database
+Entry with movie title 'colt 45' not found in database
+Entry with movie title 'harlem nights' not found in database
+Entry with movie title 'speed' not found in database
+Entry with movie title 'foolish wives' not found in database
+Entry with movie title 'greed' not found in database
+Entry with movie title 'the merry widow' not found in database
+Entry with movie title 'the wedding march' not found in database
+Entry with movie title 'beyond the rockies' not found in database
+Entry with movie title 'mr.deeds goes to town' not found in database
+Entry with movie title 'pocketful of miracles' not found in database
+Entry with movie title 'the majestic' not found in database
+Entry with movie title 'patterns' not found in database
+Entry with movie title 'a love affair: the eleanor and lou gehrig story' not found in database
+Entry with movie title 'der m\"ude tod' not found in database
+Entry with movie title 'sigfried' not found in database
+Entry with movie title 'krimhild's revenge' not found in database
+Entry with movie title 'metropolis' not found in database
+Entry with movie title 'the spy' not found in database
+Entry with movie title 'm' not found in database
+Entry with movie title 'fury' not found in database
+Entry with movie title 'you only live once' not found in database
+Entry with movie title 'western union' not found in database
+Entry with movie title 'man hunt' not found in database
+Entry with movie title 'the woman in the window' not found in database
+Entry with movie title 'ministry of fear' not found in database
+Entry with movie title 'scarlet street' not found in database
+Entry with movie title 'cloak and dagger' not found in database
+Entry with movie title 'clash by night' not found in database
+Entry with movie title 'the big heat' not found in database
+Entry with movie title 'human desire' not found in database
+Entry with movie title 'faust' not found in database
+Entry with movie title 'out' not found in database
+Entry with movie title 'david and lisa' not found in database
+Entry with movie title 'truman capote's trilogy' not found in database
+Entry with movie title 'last summer' not found in database
+Entry with movie title 'diary of a mad housewife' not found in database
+Entry with movie title 'mommie dearest' not found in database
+Entry with movie title 'monsignor' not found in database
+Entry with movie title 'on the bridge' not found in database
+Entry with movie title 'a thousand clowns' not found in database
+Entry with movie title 'vampire happening' not found in database
+Entry with movie title 'the sixth sense' not found in database
+Entry with movie title 'quadrophenia' not found in database
+Entry with movie title 'the story of ad\`ele h.' not found in database
+Entry with movie title 'dream with the fishes' not found in database
+Entry with movie title 'three days to a kill' not found in database
+Entry with movie title 'taming of the shrew' not found in database
+Entry with movie title 'brother sun, sister moon' not found in database
+Entry with movie title 'bored of education' not found in database
+Entry with movie title 'broadway limited' not found in database
+Entry with movie title 'if you knew susie' not found in database
+Entry with movie title 'rogues of sherwood forest' not found in database
+Entry with movie title 'the charge at feather river' not found in database
+Entry with movie title 'them!' not found in database
+Entry with movie title 'the mcconnell story' not found in database
+Entry with movie title 'bombers b-52' not found in database
+Entry with movie title 'the fiend who walked the west' not found in database
+Entry with movie title 'harlow' not found in database
+Entry with movie title 'stagecoach' not found in database
+Entry with movie title 'in like flint' not found in database
+Entry with movie title 'tony rome' not found in database
+Entry with movie title 'the detective' not found in database
+Entry with movie title 'lady in cement' not found in database
+Entry with movie title 'they call me mr.~tibbs' not found in database
+Entry with movie title 'viva knievel' not found in database
+Entry with movie title 'lovers' not found in database
+Entry with movie title 'mantrap' not found in database
+Entry with movie title 'the lady and the monster' not found in database
+Entry with movie title 'johnny comes flying home' not found in database
+Entry with movie title 'last of the redmen' not found in database
+Entry with movie title 'world's greatest lover' not found in database
+Entry with movie title 'the woman in red' not found in database
+Entry with movie title 'eyes without a face' not found in database
+Entry with movie title 'the mirror crack'd' not found in database
+Entry with movie title 'two minute warning' not found in database
+Entry with movie title 'die freudlose gasse' not found in database
+Entry with movie title 'die b\"uchse der pandora' not found in database
+Entry with movie title 'diary of a lost girl' not found in database
+Entry with movie title 'dreigroschenoper' not found in database
+Entry with movie title 'kamaradschaft' not found in database
+Entry with movie title 'm\"adchen in uniform' not found in database
+Entry with movie title 'caesar and cleopatra' not found in database
+Entry with movie title 'caesar and cleopatra' not found in database
+Entry with movie title 'world according to garp' not found in database
+Entry with movie title 'alice adams' not found in database
+Entry with movie title 'the nitwits' not found in database
+Entry with movie title 'swing time' not found in database
+Entry with movie title 'a damsel in distress' not found in database
+Entry with movie title 'vivacious lady' not found in database
+Entry with movie title 'gunga din' not found in database
+Entry with movie title 'vigil in the night' not found in database
+Entry with movie title 'penny serenade' not found in database
+Entry with movie title 'woman of the year' not found in database
+Entry with movie title 'talk of the town' not found in database
+Entry with movie title 'the more the merrier' not found in database
+Entry with movie title 'i remember mama' not found in database
+Entry with movie title 'a place in the sun' not found in database
+Entry with movie title 'shane' not found in database
+Entry with movie title 'giant' not found in database
+Entry with movie title 'the diary of anne frank' not found in database
+Entry with movie title 'the greatest story ever told' not found in database
+Entry with movie title 'the only game in town' not found in database
+Entry with movie title 'twice round the daddodils' not found in database
+Entry with movie title 'the big job' not found in database
+Entry with movie title 'carry on screaming' not found in database
+Entry with movie title 'carry on emmanuelle' not found in database
+Entry with movie title 'the man who knew to much' not found in database
+Entry with movie title 'mrs. bixby and the colonel's coat' not found in database
+Entry with movie title 'mrs. bixby and the colonel's coat' not found in database
+Entry with movie title 'who needs an enemy?' not found in database
+Entry with movie title 'the world's oldest motive' not found in database
+Entry with movie title 'beau brummel' not found in database
+Entry with movie title 'our dancing daughters' not found in database
+Entry with movie title 'broadway melody' not found in database
+Entry with movie title 'dance, fools, dance' not found in database
+Entry with movie title 'laughing sinners' not found in database
+Entry with movie title 'murder in the private car' not found in database
+Entry with movie title 'taps' not found in database
+Entry with movie title 'charlie chan at the racetrack' not found in database
+Entry with movie title 'goodbye mr.~chips' not found in database
+Entry with movie title 'the owl and the pussycat' not found in database
+Entry with movie title 'play it again sam' not found in database
+Entry with movie title 'the last of sheila' not found in database
+Entry with movie title 'funny lady' not found in database
+Entry with movie title 'the sunshine boys' not found in database
+Entry with movie title 'the seven-per-cent solution' not found in database
+Entry with movie title 'the turning point' not found in database
+Entry with movie title 'california suite' not found in database
+Entry with movie title 'the goodbye girl' not found in database
+Entry with movie title 'pennies from heaven' not found in database
+Entry with movie title 'i ought to be in pictures' not found in database
+Entry with movie title 'footloose' not found in database
+Entry with movie title 'protocol' not found in database
+Entry with movie title 'steel magnolias' not found in database
+Entry with movie title 'straight talk' not found in database
+Entry with movie title 'undercover blues' not found in database
+Entry with movie title 'boys on the side' not found in database
+Entry with movie title 'murderer's row' not found in database
+Entry with movie title 'decameron nights' not found in database
+Entry with movie title 'blowing wild' not found in database
+Entry with movie title 'man in the attic' not found in database
+Entry with movie title 'appaches last battle' not found in database
+Entry with movie title 'charlie chan at the circus' not found in database
+Entry with movie title 'murder over new york' not found in database
+Entry with movie title 'dead men tell' not found in database
+Entry with movie title 'charlie chan in rio' not found in database
+Entry with movie title 'the loves of edgar allen poe' not found in database
+Entry with movie title 'castle in the desert' not found in database
+Entry with star name 'Adrienne Shelley' in movie 'trust' is a duplicate insert entry
+Entry with movie title 'with six you get eggroll' not found in database
+Entry with movie title 'dreams that money can't buy' not found in database
+Entry with movie title 'tarzan hidden jungle' not found in database
+Entry with movie title 'joe' not found in database
+Entry with movie title 'save the tiger' not found in database
+Entry with movie title 'rocky' not found in database
+Entry with movie title 'karate kid' not found in database
+Entry with movie title 'neighbors' not found in database
+Entry with movie title 'the formula' not found in database
+Entry with movie title 'happy new year' not found in database
+Entry with movie title 'lean on me' not found in database
+Entry with movie title 'karate kid iii' not found in database
+Entry with movie title 'stop or my mom will shoot' not found in database
+Entry with movie title 'assassins' not found in database
+Entry with movie title 'dark star' not found in database
+Entry with movie title 'assault on precinct 13' not found in database
+Entry with movie title 'halloween' not found in database
+Entry with movie title 'the fog' not found in database
+Entry with movie title 'escape from new york' not found in database
+Entry with movie title 'the thing' not found in database
+Entry with movie title 'christine' not found in database
+Entry with movie title 'memoirs of an invisible man' not found in database
+Entry with movie title 'escape from l.a..' not found in database
+Entry with movie title 'vampires' not found in database
+Entry with movie title 'shadows' not found in database
+Entry with movie title 'too late blues' not found in database
+Entry with movie title 'a child is waiting' not found in database
+Entry with movie title 'faces' not found in database
+Entry with movie title 'husbands' not found in database
+Entry with movie title 'minnie and moskowitz' not found in database
+Entry with movie title 'a woman under the influence' not found in database
+Entry with movie title 'opening night' not found in database
+Entry with movie title 'the killing of a chinese bookie' not found in database
+Entry with movie title 'gloria' not found in database
+Entry with movie title 'love streams' not found in database
+Entry with movie title 'the man who shot liberty valence' not found in database
+Entry with star name 'Paul Scofield' in movie 'the train' is a duplicate insert entry
+Entry with star name 'Burt Lancaster' in movie 'the train' is a duplicate insert entry
+Entry with movie title 'rolling thunder' not found in database
+Entry with movie title 'defiance' not found in database
+Entry with movie title 'year of the gun' not found in database
+Entry with movie title 'brainscan' not found in database
+Entry with movie title 'the island of dr.moreau' not found in database
+Entry with movie title 'ronin' not found in database
+Entry with movie title 'the maltese falcon' not found in database
+Entry with movie title 'this is our life' not found in database
+Entry with movie title 'across the pacific' not found in database
+Entry with movie title 'the treasure of the sierra madre' not found in database
+Entry with movie title 'the treasure of the sierra madre' not found in database
+Entry with movie title 'key largo' not found in database
+Entry with movie title 'the asphalt jungle' not found in database
+Entry with movie title 'red badge of courage' not found in database
+Entry with movie title 'the african queen' not found in database
+Entry with movie title 'moulin rouge' not found in database
+Entry with movie title 'beat the devil' not found in database
+Entry with movie title 'moby dick' not found in database
+Entry with movie title 'heaven knows mr.~allison' not found in database
+Entry with movie title 'the unforgiven' not found in database
+Entry with movie title 'the misfits' not found in database
+Entry with movie title 'the list of adrian messenger' not found in database
+Entry with movie title 'the night of the iguana' not found in database
+Entry with movie title 'the bible' not found in database
+Entry with movie title 'casino royale' not found in database
+Entry with movie title 'reflections in a golden eye' not found in database
+Entry with movie title 'a walk with love and death' not found in database
+Entry with movie title 'the life and times of judge roy bean' not found in database
+Entry with movie title 'fat city' not found in database
+Entry with movie title 'the man who would be king' not found in database
+Entry with movie title 'wise blood' not found in database
+Entry with movie title 'victory' not found in database
+Entry with movie title 'annie' not found in database
+Entry with movie title 'under the volcano' not found in database
+Entry with movie title 'prizzi's honor' not found in database
+Entry with movie title 'the dead' not found in database
+Entry with movie title 'plane, trains, and automobiles' not found in database
+Entry with movie title 'similar' not found in database
+Entry with movie title 'the fast and furious' not found in database
+Entry with movie title 'animal house' not found in database
+Entry with movie title 'magnificent obsession' not found in database
+Entry with movie title 'the silence' not found in database
+Entry with movie title 'now voyager' not found in database
+Entry with movie title 'the paper chase' not found in database
+Entry with movie title 'the china syndrome' not found in database
+Entry with movie title 'urban cowboy' not found in database
+Entry with movie title 'bright lights, big city' not found in database
+Entry with movie title 'the great gabbo' not found in database
+Entry with movie title 'tommorrow' not found in database
+Entry with movie title 'harper' not found in database
+Entry with movie title 'the bedford incident' not found in database
+Entry with movie title 'some call it loving' not found in database
+Entry with movie title 'boiling point' not found in database
+Entry with movie title 'police story ii' not found in database
+Entry with movie title 'visiting hours' not found in database
+Entry with movie title 'the titanic' not found in database
+Entry with movie title 'cousin, cousine' not found in database
+Entry with movie title 'brute force' not found in database
+Entry with movie title 'speed two' not found in database
+Entry with movie title 'blood beach' not found in database
+Entry with movie title 'angel and the badman' not found in database
+Entry with movie title 'the shooting' not found in database
+Entry with movie title 'promises in the dark' not found in database
+Entry with movie title 'rent-a-cop' not found in database
+Entry with movie title 'the seven faces of dr.loa' not found in database
+Entry with movie title 'china cry' not found in database
+Entry with movie title 'i accuse!' not found in database
+Entry with movie title 'state fair' not found in database
+Entry with movie title 'forced vengeance' not found in database
+Entry with star name 'Charles Durning' in movie 'die laughing' is a duplicate insert entry
+Entry with star name 'Robby Benson' in movie 'die laughing' is a duplicate insert entry
+Entry with star name 'Linda Grovenor' in movie 'die laughing' is a duplicate insert entry
+Entry with movie title 'creature from black lake' not found in database
+Entry with movie title 'the funeral' not found in database
+Entry with movie title 'airplane!' not found in database
+Entry with movie title 'hero' not found in database
+Entry with movie title 'the kidnapping of mrs. stone' not found in database
+Entry with movie title 'when twins are interchanged' not found in database
+Entry with movie title 'when twins are interchanged' not found in database
+Entry with movie title 'the naked gun' not found in database
+Entry with movie title 'the adventures of ford fairlane' not found in database
+Entry with movie title 'hot shots' not found in database
+Entry with movie title 'hot shots! part deux' not found in database
+Entry with movie title 'room with a view' not found in database
+Entry with movie title 'the golden mistress' not found in database
+Entry with movie title 'bad manners' not found in database
+Entry with movie title 'band a part' not found in database
+Entry with movie title 'alphaville' not found in database
+Entry with movie title 'pierrot le fou' not found in database
+Entry with movie title 'la chinoise' not found in database
+Entry with movie title 'deux ou trois choses que je sais d'elle' not found in database
+Entry with movie title 'le gai savoir' not found in database
+Entry with movie title 'vivre sa vie' not found in database
+Entry with movie title 'une femme est une femme' not found in database
+Entry with movie title 'tout va bien' not found in database
+Entry with movie title 'sauve qui peut' not found in database
+Entry with movie title 'passion' not found in database
+Entry with movie title 'pr\'enom carmen' not found in database
+Entry with movie title 'je vous salue marie' not found in database
+Entry with movie title 'aria' not found in database
+Entry with movie title 'for ever mozart' not found in database
+Entry with movie title 'the ghost and mrs.~ muir' not found in database
+Entry with movie title 'ice-cold in alex' not found in database
+Entry with movie title 'tiger bay' not found in database
+Entry with movie title 'guns of navarone' not found in database
+Entry with movie title 'messenger of death' not found in database
+Entry with movie title 'asphalt' not found in database
+Entry with movie title 'music in the air' not found in database
+Entry with movie title 'the house of seven gables' not found in database
+Entry with movie title 'reckless' not found in database
+Entry with movie title 'glengarry glen ross' not found in database
+Entry with movie title 'fear' not found in database
+Entry with movie title 'imperial venus' not found in database
+Entry with movie title 'the ghost' not found in database
+Entry with movie title 'picnic' not found in database
+Entry with movie title 'bus stop' not found in database
+Entry with movie title 'sayonara' not found in database
+Entry with movie title 'ensign pulver' not found in database
+Entry with movie title 'camelot' not found in database
+Entry with movie title 'america's sweetheart' not found in database
+Entry with movie title 'robin' not found in database
+Entry with movie title 'the last train from madrid' not found in database
+Entry with movie title 'ebb tide' not found in database
+Entry with movie title 'the farmer's daughter' not found in database
+Entry with movie title 'goupi mains rouges' not found in database
+Entry with movie title 'antoine et antoinette' not found in database
+Entry with movie title 'rendevouz de julliet' not found in database
+Entry with movie title 'edouard et caroline' not found in database
+Entry with movie title 'casque d'or' not found in database
+Entry with movie title 'touchez pas au grisbi' not found in database
+Entry with movie title 'montparnasse 19' not found in database
+Entry with movie title 'le trou' not found in database
+Entry with movie title 'hurlevent' not found in database
+Entry with movie title 'volpone' not found in database
+Entry with movie title 'cat people' not found in database
+Entry with movie title 'the leopard man' not found in database
+Entry with movie title 'out of the past' not found in database
+Entry with movie title 'berlin express' not found in database
+Entry with movie title 'curse of the demon' not found in database
+Entry with movie title 'the reunion' not found in database
+Entry with movie title 'monsieur hulot's holiday' not found in database
+Entry with movie title 'battle beyond the stars' not found in database
+Entry with movie title 'night of the excecution' not found in database
+Entry with movie title 'the little world of don camillo' not found in database
+Entry with star name 'Jack Webb' in movie 'dragnet' is a duplicate insert entry
+Entry with movie title 'the haunting of morella' not found in database
+Entry with movie title '976-evil' not found in database
+Entry with movie title 'project tinman' not found in database
+Entry with movie title 'shadow of a doubt' not found in database
+Entry with movie title 'trial by combat)' not found in database
+Entry with movie title 'dances with wolves' not found in database
+Entry with movie title 'waterworld' not found in database
+Entry with movie title 'the postman' not found in database
+Entry with movie title 'promises! promises!' not found in database
+Entry with movie title 'women in love' not found in database
+Entry with movie title 'the devils' not found in database
+Entry with movie title 'the boyfriend' not found in database
+Entry with movie title 'tommy' not found in database
+Entry with movie title 'lisztomania' not found in database
+Entry with movie title 'valentino' not found in database
+Entry with movie title 'altered states' not found in database
+Entry with movie title 'crimes of passion' not found in database
+Entry with movie title 'gothic' not found in database
+Entry with movie title 'the lair of the white worm' not found in database
+Entry with movie title 'salome's last dance' not found in database
+Entry with movie title 'rainbow' not found in database
+Entry with movie title 'women and men, stories of seduction' not found in database
+Entry with movie title 'whore' not found in database
+Entry with movie title 'prisoner of honor' not found in database
+Entry with movie title 'the insatiable mrs.~kirsch' not found in database
+Entry with star name 'Vincent Price' in movie 'the fly' is a duplicate insert entry
+Entry with star name 'Patricia Owens' in movie 'the fly' is a duplicate insert entry
+Entry with star name 'Herbert Marshall' in movie 'the fly' is a duplicate insert entry
+Entry with movie title 'the wedding night' not found in database
+Entry with movie title 'the uninvited' not found in database
+Entry with movie title 'the unseen' not found in database
+Entry with movie title 'another time, another place' not found in database
+Entry with movie title 'body heat' not found in database
+Entry with movie title 'big chill' not found in database
+Entry with movie title 'silverado' not found in database
+Entry with movie title 'the accidental tourist' not found in database
+Entry with movie title 'i love you to death' not found in database
+Entry with movie title 'grand canyon' not found in database
+Entry with movie title 'french kiss' not found in database
+Entry with movie title 'wyatt earp' not found in database
+Entry with movie title 'jungle goddess' not found in database
+Entry with movie title 'the mummy's tomb' not found in database
+Entry with movie title 'my life as a dog' not found in database
+Entry with movie title 'once around' not found in database
+Entry with movie title 'what's eating gilbert grape' not found in database
+Entry with movie title 'the cider house rules' not found in database
+Entry with movie title 'chocolat' not found in database
+Entry with movie title 'hold me, thrill me, kiss me' not found in database
+Entry with movie title 'the white warrior' not found in database
+Entry with movie title 'this sporting life' not found in database
+Entry with movie title 'if ...' not found in database
+Entry with movie title 'o lucky man' not found in database
+Entry with movie title 'the whales of august' not found in database
+Entry with movie title 'silk stockings' not found in database
+Entry with movie title 'dirty work' not found in database
+Entry with movie title 'the cave man' not found in database
+Entry with movie title 'all quiet on the western front' not found in database
+Entry with movie title 'the front page' not found in database
+Entry with movie title 'rain' not found in database
+Entry with movie title 'anthing goes' not found in database
+Entry with movie title 'of mice and men' not found in database
+Entry with movie title 'edge of darkness' not found in database
+Entry with movie title 'the puple heart' not found in database
+Entry with movie title 'a walk in the sun' not found in database
+Entry with movie title 'the strange love of martha ivers' not found in database
+Entry with movie title 'arch of triumph' not found in database
+Entry with movie title 'les mis\'erables' not found in database
+Entry with movie title 'mutiny on the bounty' not found in database
+Entry with movie title 'the bull skinner' not found in database
+Entry with movie title 'ocean's eleven' not found in database
+Entry with movie title 'together' not found in database
+Entry with movie title 'murder in trinidad' not found in database
+Entry with movie title 'charlie chan in egypt' not found in database
+Entry with movie title 'bulldog drummond comes back' not found in database
+Entry with movie title 'the way of all flesh' not found in database
+Entry with movie title 'dangerous mission' not found in database
+Entry with movie title 'henry v' not found in database
+Entry with movie title 'hamlet' not found in database
+Entry with movie title 'richard iii' not found in database
+Entry with movie title 'the prince and the showgirl' not found in database
+Entry with movie title 'she done him wrong' not found in database
+Entry with movie title 'morning glory' not found in database
+Entry with movie title 'born to be bad' not found in database
+Entry with movie title 'penrod' not found in database
+Entry with star name 'Ronny Cox' in movie 'beverly hills cop' is a duplicate insert entry
+Entry with star name 'Steven Berkoff' in movie 'beverly hills cop' is a duplicate insert entry
+Entry with star name 'Lisa Eilbacher' in movie 'beverly hills cop' is a duplicate insert entry
+Entry with star name 'Eddie Murphy' in movie 'beverly hills cop' is a duplicate insert entry
+Entry with star name 'John Ashton' in movie 'beverly hills cop' is a duplicate insert entry
+Entry with star name 'Judge Reinhold' in movie 'beverly hills cop' is a duplicate insert entry
+Entry with movie title 'original sin' not found in database
+Entry with movie title 'hussy' not found in database
+Entry with movie title 'macbeth' not found in database
+Entry with movie title 'love everlasting' not found in database
+Entry with movie title 'douro, fana fluvial' not found in database
+Entry with movie title 'amor de perdi{\c}c\~ao' not found in database
+Entry with movie title 'le paltoquet' not found in database
+Entry with movie title 'nuit d'ete en ville' not found in database
+Entry with movie title 'sweetheart' not found in database
+Entry with movie title 'monster's ball' not found in database
+Entry with movie title 'the dam busters' not found in database
+Entry with movie title 'around the world in 80 days' not found in database
+Entry with movie title 'the wreck of the mary deare' not found in database
+Entry with movie title 'the shoes of the fisherman' not found in database
+Entry with movie title 'logan's run' not found in database
+Entry with movie title 'dominique is dead' not found in database
+Entry with movie title 'orca the killer whale' not found in database
+Entry with movie title 'the martian chronicles i/ii/iii' not found in database
+Entry with movie title 'l.a. story' not found in database
+Entry with movie title 'the bodyguard' not found in database
+Entry with movie title 'clean slate' not found in database
+Entry with movie title 'volcano' not found in database
+Entry with movie title 'lies' not found in database
+Entry with movie title 'pet semetary ii' not found in database
+Entry with movie title 'die grosse flatter' not found in database
+Entry with movie title 'the loneliest runner' not found in database
+Entry with star name 'Jack LaRue' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Joan Blondell' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Warren William' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Humphrey Bogart' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Grant Mitchell' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Glenda Farrell' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Lyle Talbot' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Ann Dvorak' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Edward Arnold' in movie 'three on a match' is a duplicate insert entry
+Entry with star name 'Allen Jenkins' in movie 'three on a match' is a duplicate insert entry
+Entry with movie title 'firestarter' not found in database
+Entry with movie title 'mississipi masala' not found in database
+Entry with movie title 'the torrent' not found in database
+Entry with movie title 'bohpa!' not found in database
+Entry with movie title 'the thief of bagdad' not found in database
+Entry with movie title 'c\'esar' not found in database
+Entry with movie title 'going all the way' not found in database
+Entry with movie title 'bad news bears break training' not found in database
+Entry with movie title 'corvette summer' not found in database
+Entry with movie title 'the dragonslayer' not found in database
+Entry with movie title 'das schrecklische madchen' not found in database
+Entry with movie title 'sweet sweetbackk's badasssss song' not found in database
+Entry with movie title 'vroom!' not found in database
+Entry with movie title 'something's gotta give' not found in database
+Entry with movie title 'courtney' not found in database
+Entry with movie title 'think fast, mr.~moto' not found in database
+Entry with movie title 'thank you, mr.~moto' not found in database
+Entry with movie title 'mr.~moto takes a chance' not found in database
+Entry with movie title 'mysterious mr.~moto' not found in database
+Entry with movie title 'charlie chan in rio' not found in database
+Entry with movie title 'mr.~moto's last warning' not found in database
+Entry with movie title 'mr.~moto takes a vacation' not found in database
+Entry with movie title 'charlie chan at treasure island' not found in database
+Entry with movie title 'charlie chan in panama' not found in database
+Entry with movie title 'journey into fear' not found in database
+Entry with movie title 'davy crockett' not found in database
+Entry with movie title 'davy crockett and the river pirates' not found in database
+Entry with movie title 'the sign of zorro' not found in database
+Entry with movie title 'indian paint' not found in database
+Entry with movie title 'the return of mr.~moto' not found in database
+Entry with movie title 'euraka' not found in database
+Entry with movie title 'cincinnati kid' not found in database
+Entry with movie title 'the russians are coming, the russians are coming' not found in database
+Entry with movie title 'law and order' not found in database
+Entry with movie title 'attack of the 50-foot woman' not found in database
+Entry with movie title 'hellcats of the navy' not found in database
+Entry with movie title 'the seventh voyage of sinbad' not found in database
+Entry with movie title 'siege of the saxons' not found in database
+Entry with movie title 'close to eden' not found in database
+Entry with movie title 'chamber of horrors' not found in database
+Entry with movie title 'in the realmn of the senses' not found in database
+Entry with movie title 'night people' not found in database
+Entry with movie title 'black widow' not found in database
+Entry with movie title 'how to be very very popular' not found in database
+Entry with movie title 'the man in the gray flannel suit' not found in database
+Entry with movie title 'the three faces of eve' not found in database
+Entry with movie title 'the man who understood women' not found in database
+Entry with movie title 'dead alive' not found in database
+Entry with movie title 'lord of the rings' not found in database
+Entry with movie title 'chicken run' not found in database
+Entry with movie title 'irene' not found in database
+Entry with movie title 'a view from pompey's head' not found in database
+Entry with movie title 'ten north frederick' not found in database
+Entry with movie title 'wild in the country' not found in database
+Entry with movie title 'addicted to love' not found in database
+Entry with movie title 'bed of roses' not found in database
+Entry with movie title 'white dawn' not found in database
+Entry with movie title 'the invasion of the body snatchers' not found in database
+Entry with movie title 'the wanderers' not found in database
+Entry with movie title 'the right stuff' not found in database
+Entry with movie title 'the unbearable lightness of being' not found in database
+Entry with movie title 'henry and june' not found in database
+Entry with movie title 'rising sun' not found in database
+Entry with movie title 'waxworks' not found in database
+Entry with movie title 'the cat and the canary' not found in database
+Entry with movie title 'the man who laughs' not found in database
+Entry with movie title 'padre pasdrone' not found in database
+Entry with movie title 'touch and go' not found in database
+Entry with movie title 'inventing the abbotts' not found in database
+Entry with movie title 'the great mcginty' not found in database
+Entry with movie title 'christmas in july' not found in database
+Entry with movie title 'sullivan's travels' not found in database
+Entry with movie title 'the lady eve' not found in database
+Entry with movie title 'the palm beach story' not found in database
+Entry with movie title 'the miracle of morgan's creek' not found in database
+Entry with movie title 'hail the conquering hero' not found in database
+Entry with movie title 'mad wednesday' not found in database
+Entry with movie title 'the sin of harold diddlebook' not found in database
+Entry with movie title 'unfaithfully yours' not found in database
+Entry with movie title 'the beautiful blonde from bashful bend' not found in database
+Entry with movie title 'les carnets de major thompson' not found in database
+Entry with movie title 'bullitt' not found in database
+Entry with movie title 'damned in the u.sa' not found in database
+Entry with movie title 'grandview u.s.a' not found in database
+Entry with movie title 'carmen' not found in database
+Entry with movie title 'the white warrior' not found in database
+Entry with movie title 'l'orrible segreto del dottor hitchcock' not found in database
+Entry with movie title 'a hard day's night' not found in database
+Entry with movie title 'the knack' not found in database
+Entry with movie title 'help!' not found in database
+Entry with movie title 'a funny thing happened on the way to the forum' not found in database
+Entry with movie title 'the three musketeers' not found in database
+Entry with movie title 'juggernaut' not found in database
+Entry with movie title 'four musketeers' not found in database
+Entry with movie title 'royal flash' not found in database
+Entry with movie title 'robin and marian' not found in database
+Entry with movie title 'butch and sundance, the early days' not found in database
+Entry with movie title 'cuba' not found in database
+Entry with movie title 'superman ii' not found in database
+Entry with movie title 'superman iii' not found in database
+Entry with movie title 'finders keepers' not found in database
+Entry with movie title 'beneath the 12-mile reef' not found in database
+Entry with movie title 'caribbean mystery' not found in database
+Entry with movie title 'love me tender' not found in database
+Entry with movie title 'two cents worth of hope' not found in database
+Entry with movie title 'romeo and juliet' not found in database
+Entry with movie title 'deep blue sea' not found in database
+Entry with movie title 'little darlings' not found in database
+Entry with movie title 'night the lights went out in georgia' not found in database
+Entry with movie title 'gettysburg' not found in database
+Entry with movie title 'wuthering heights' not found in database
+Entry with movie title 'xanadu' not found in database
+Entry with movie title 'forgotten prisoners' not found in database
+Entry with movie title 'roadhouse' not found in database
+Entry with movie title 'night cries' not found in database
+Entry with movie title 'change of seasons' not found in database
+Entry with movie title 'the mountain men' not found in database
+Entry with movie title 'round the world in eighty days' not found in database
+Entry with movie title 'the lovable cheat' not found in database
+Entry with movie title 'the cat and the canary' not found in database
+Entry with movie title 'same time, next year' not found in database
+Entry with movie title 'short eyes' not found in database
+Entry with movie title 'one trick pony' not found in database
+Entry with movie title 'riders of destiny' not found in database
+Entry with movie title 'house party' not found in database
+Entry with movie title 'boomerang' not found in database
+Entry with movie title 'frisco kid' not found in database
+Entry with movie title 'man of aran' not found in database
+Entry with movie title 'elephant boy' not found in database
+Entry with movie title 'the tenant' not found in database
+Entry with movie title 'hells angels on wheels' not found in database
+Entry with movie title 'the duellists' not found in database
+Entry with movie title 'son of dracula' not found in database
+Entry with movie title 'cobra woman' not found in database
+Entry with movie title 'phantom lady' not found in database
+Entry with movie title 'the spiral staircase' not found in database
+Entry with movie title 'nocturne' not found in database
+Entry with movie title 'the killers' not found in database
+Entry with movie title 'criss cross' not found in database
+Entry with movie title 'the spiral staircase' not found in database
+Entry with movie title 'the crimson pirate' not found in database
+Entry with star name 'Mariel Hemingway' in movie 'personal best' is a duplicate insert entry
+Entry with star name 'Scott Glenn' in movie 'personal best' is a duplicate insert entry
+Entry with star name 'Kenny Moore' in movie 'personal best' is a duplicate insert entry
+Entry with star name 'Patrice Donnelly' in movie 'personal best' is a duplicate insert entry
+Entry with movie title 'journal d'un cuire de campagne' not found in database
+Entry with movie title 'the song of the thin man' not found in database
+Entry with movie title 'christy turlington backstage' not found in database
+Entry with movie title 'the count of monte cristo' not found in database
+Entry with movie title 'the shopworn angel' not found in database
+Entry with movie title 'seven days leave' not found in database
+Entry with movie title 'young at heart' not found in database
+Entry with movie title 'a girl, a guy, and a gob' not found in database
+Entry with movie title 'a night to remember' not found in database
+Entry with movie title 'sinbad the sailor' not found in database
+Entry with star name 'Karl Scheydt' in movie 'the american soldier' is a duplicate insert entry
+Entry with star name 'Karlheinz Boehm' in movie 'effi briest' is a duplicate insert entry
+Entry with movie title 'mademoiselle fifi' not found in database
+Entry with movie title 'the curse of the cat people' not found in database
+Entry with movie title 'the body snatchers' not found in database
+Entry with movie title 'blood on the moon' not found in database
+Entry with movie title 'the set-up' not found in database
+Entry with movie title 'the day the earth stood still' not found in database
+Entry with movie title 'i want to live' not found in database
+Entry with movie title 'west side story' not found in database
+Entry with movie title 'the haunting' not found in database
+Entry with movie title 'the sound of music' not found in database
+Entry with movie title 'sand pebbles' not found in database
+Entry with movie title 'star!' not found in database
+Entry with movie title 'the andromeda strain' not found in database
+Entry with movie title 'the hindenburg' not found in database
+Entry with movie title 'audrey rose' not found in database
+Entry with movie title 'star trek, the motion picture' not found in database
+Entry with movie title 'sherlock holmes and the secret weapon' not found in database
+Entry with movie title 'frankenstein meets the wolf man' not found in database
+Entry with movie title 'sherlock holmes in washington' not found in database
+Entry with movie title 'sherlock holmes faces death' not found in database
+Entry with movie title 'sherlock holmes and the spider woman' not found in database
+Entry with movie title 'the scarlet claw' not found in database
+Entry with movie title 'the pearl of death' not found in database
+Entry with movie title 'the house of fear' not found in database
+Entry with movie title 'the woman in green' not found in database
+Entry with movie title 'pursuit to algiers' not found in database
+Entry with movie title 'terror by night' not found in database
+Entry with movie title 'dressed to kill' not found in database
+Entry with movie title 'sacaramouche' not found in database
+Entry with movie title 'the great ziegfield' not found in database
+Entry with movie title 'the salvation hunters' not found in database
+Entry with movie title 'last command' not found in database
+Entry with movie title 'last command' not found in database
+Entry with movie title 'docks of new york' not found in database
+Entry with movie title 'der blaue engel' not found in database
+Entry with movie title 'morocco' not found in database
+Entry with movie title 'dishonoured' not found in database
+Entry with movie title 'an american tragedy' not found in database
+Entry with movie title 'shanghai express' not found in database
+Entry with movie title 'blonde venus' not found in database
+Entry with movie title 'the scarlet empress' not found in database
+Entry with movie title 'the devil is a woman' not found in database
+Entry with movie title 'the king steps out' not found in database
+Entry with movie title 'the shanghai gesture' not found in database
+Entry with movie title 'jet pilot' not found in database
+Entry with movie title 'taming of the shrew' not found in database
+Entry with movie title 'the disappearance' not found in database
+Entry with movie title 'where the heart is' not found in database
+Entry with movie title 'reunion in vienna' not found in database
+Entry with star name 'Robert deNiro' in movie 'once upon a time in america' is a duplicate insert entry
+Entry with star name 'Treat Williams' in movie 'once upon a time in america' is a duplicate insert entry
+Entry with star name 'William Forsythe' in movie 'once upon a time in america' is a duplicate insert entry
+Entry with star name 'Elizabeth McGovern' in movie 'once upon a time in america' is a duplicate insert entry
+Entry with star name 'Burt Young' in movie 'once upon a time in america' is a duplicate insert entry
+Entry with movie title 'private lives' not found in database
+Entry with movie title 'the guardsman' not found in database
+Entry with movie title 'dark angel' not found in database
+Entry with movie title 'the good earth' not found in database
+Entry with movie title 'les perles de la couronne' not found in database
+Entry with movie title 'the chinese bungalow' not found in database
+Entry with movie title 'pride and the passion' not found in database
+Entry with movie title 'the defiant ones' not found in database
+Entry with movie title 'on the beach' not found in database
+Entry with movie title 'inherit the wind' not found in database
+Entry with movie title 'judgement at nuremberg' not found in database
+Entry with movie title 'it's a mad mad mad mad world' not found in database
+Entry with movie title 'ship of fools' not found in database
+Entry with movie title 'guess who's coming to dinner' not found in database
+Entry with movie title 'bless the beasts and children' not found in database
+Entry with movie title 'the domino principle' not found in database
+Entry with movie title 'my favourite blonde' not found in database
+Entry with movie title 'love serenade' not found in database
+Entry with movie title 'the intruder' not found in database
+Entry with movie title 'american beauty' not found in database
+Entry with movie title 'the apple' not found in database
+Entry with movie title 'georgy girl' not found in database
+Entry with star name 'Herb Edelman' in movie 'the way we were' is a duplicate insert entry
+Entry with movie title 'orlando' not found in database
+Entry with movie title 'pather panchali' not found in database
+Entry with movie title 'aparajito' not found in database
+Entry with movie title 'jalsaghar' not found in database
+Entry with movie title 'apur sansar' not found in database
+Entry with movie title 'devi' not found in database
+Entry with movie title 'the postmaster' not found in database
+Entry with movie title 'samapti' not found in database
+Entry with movie title 'charulata' not found in database
+Entry with movie title 'mahangar' not found in database
+Entry with movie title 'charulata' not found in database
+Entry with movie title 'kapurush o mahapurush' not found in database
+Entry with movie title 'the hero' not found in database
+Entry with movie title 'the stranger' not found in database
+Entry with movie title 'dead weight' not found in database
+Entry with movie title 'road hog' not found in database
+Entry with movie title 'backward, turn backward' not found in database
+Entry with movie title 'escape to sonoita' not found in database
+Entry with movie title 'the man with two faces' not found in database
+Entry with movie title 'cool hand luke' not found in database
+Entry with movie title 'the laughing policeman' not found in database
+Entry with movie title 'drowning pool' not found in database
+Entry with movie title 'voyage of the damned' not found in database
+Entry with movie title 'amityville horror' not found in database
+Entry with movie title 'brubaker' not found in database
+Entry with movie title 'sudden death' not found in database
+Entry with movie title 'please don't eat the daisies' not found in database
+Entry with movie title 'one sunday afternoon' not found in database
+Entry with movie title 'solaris' not found in database
+Entry with star name 'Allison Janney' in movie 'the impostors' is a duplicate insert entry
+Entry with star name 'Campbell Scott' in movie 'the impostors' is a duplicate insert entry
+Entry with movie title 'werewolf in london' not found in database
+Entry with movie title 'the reanimator' not found in database
+Entry with movie title 'fortress' not found in database
+Entry with movie title 'lost in space' not found in database
+Entry with movie title 'george of the jungle' not found in database
+Entry with movie title 'blood of jesus' not found in database
+Entry with movie title 'marching on!' not found in database
+Entry with movie title 'of one blood' not found in database
+Entry with movie title 'go down death' not found in database
+Entry with movie title 'jivin; in be-bop' not found in database
+Entry with movie title 'girl in room 20' not found in database
+Entry with movie title 'dirty gertie from harlem, u.s.a.' not found in database
+Entry with movie title 'juke joint' not found in database
+Entry with movie title 'bealestreet mama' not found in database
+Entry with movie title 'let's talk about sex' not found in database
+Entry with movie title 'nerosu bianco' not found in database
+Entry with movie title 'in the bedroom' not found in database
+Entry with movie title 'the postman always ring twice' not found in database
+Entry with movie title 'gadjo dilo' not found in database
+Entry with movie title 'vampire ... did you say vampire?' not found in database
+Entry with movie title 'the wizard' not found in database
+Entry with star name 'Michael Palin' in movie 'jabberwocky' is a duplicate insert entry
+Entry with star name 'Ralph Richardson' in movie 'time bandits' is a duplicate insert entry
+Entry with star name 'Ian Holm' in movie 'time bandits' is a duplicate insert entry
+Entry with star name 'Sean Connery' in movie 'time bandits' is a duplicate insert entry
+Entry with star name 'John Cleese' in movie 'time bandits' is a duplicate insert entry
+Entry with star name 'Shelley Duvall' in movie 'time bandits' is a duplicate insert entry
+Entry with movie title 'born losers' not found in database
+Entry with movie title 'billy jack' not found in database
+Entry with movie title 'look back in anger' not found in database
+Entry with movie title 'the entertainer' not found in database
+Entry with movie title 'a taste of honey' not found in database
+Entry with movie title 'the loneliness of the long-distance runner' not found in database
+Entry with movie title 'tom jones' not found in database
+Entry with movie title 'the loved one' not found in database
+Entry with movie title 'the charge of the light brigade' not found in database
+Entry with movie title 'laughter in the dark' not found in database
+Entry with movie title 'hamlet' not found in database
+Entry with movie title 'joseph andrews' not found in database
+Entry with movie title 'the border' not found in database
+Entry with movie title 'the hotel new hampshire' not found in database
+Entry with movie title 'prick up your ears' not found in database
+Entry with movie title 'the phantom of the opera' not found in database
+Entry with movie title 't' not found in database
+Entry with movie title 'depression' not found in database
+Entry with movie title 'umberto d.' not found in database
+Entry with movie title 'the quatermass experiment' not found in database
+Entry with movie title 'quatermass ii' not found in database
+Entry with movie title 'up the creek' not found in database
+Entry with movie title 'jigsaw' not found in database
+Entry with movie title 'the beauty jungle' not found in database
+Entry with movie title 'when dinosaurs ruled the earth' not found in database
+Entry with movie title 'tradgardsmastaren' not found in database
+Entry with movie title 'he who gets slapped' not found in database
+Entry with movie title 'the scarlet letter' not found in database
+Entry with movie title 'the divine woman' not found in database
+Entry with movie title 'the wind' not found in database
+Entry with star name 'Bob Hope' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Robert Mitchum' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Andy Devine' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Dorothy Coonan Wellman' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Wally Cassel' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Don Whitehead' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'John Wayne' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Allyn Joslyn' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'John R. Reilly' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Burgess Meredith' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Lloyd Nolan' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Walter Abel' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'Freddie Steele' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'William Murphy' in movie 'island in the sky' is a duplicate insert entry
+Entry with star name 'James Arness' in movie 'island in the sky' is a duplicate insert entry
+Entry with movie title 'take the money and run' not found in database
+Entry with movie title 'bananas' not found in database
+Entry with movie title 'everything you always wanted to know about sex but were afraid to ask' not found in database
+Entry with movie title 'sleeper' not found in database
+Entry with movie title 'love and death' not found in database
+Entry with movie title 'annie hall' not found in database
+Entry with movie title 'interiors' not found in database
+Entry with movie title 'manhattan' not found in database
+Entry with movie title 'stardust memories' not found in database
+Entry with movie title 'a midsummernights sex comedy' not found in database
+Entry with movie title 'zelig' not found in database
+Entry with movie title 'broadway danny rose' not found in database
+Entry with movie title 'hannah and her sisters' not found in database
+Entry with movie title 'the purple rose of cairo' not found in database
+Entry with movie title 'radio days' not found in database
+Entry with movie title 'another woman' not found in database
+Entry with movie title 'crimes and misdemeanors' not found in database
+Entry with movie title 'alice' not found in database
+Entry with movie title 'shadows and fog' not found in database
+Entry with movie title 'husbands and wives' not found in database
+Entry with movie title 'manhattan murder mystery' not found in database
+Entry with movie title 'bullets over broadway' not found in database
+Entry with movie title 'mighty aphrodite' not found in database
+Entry with movie title 'everyone says i love you' not found in database
+Entry with movie title 'deconstructing harry' not found in database
+Entry with movie title 'new' not found in database
+Entry with movie title 'celebrity' not found in database
+Entry with movie title 'sweet and lowdown' not found in database
+Entry with movie title 'small time crooks' not found in database
+Entry with movie title 'little miss marker' not found in database
+Entry with movie title 'the ghost train' not found in database
+Entry with movie title 'rome express' not found in database
+Entry with movie title 'chu chin chow' not found in database
+Entry with movie title 'bulldog jack' not found in database
+Entry with movie title 'the ghost train' not found in database
+Entry with movie title 'charley's bighearted aunt' not found in database
+Entry with movie title 'things to come' not found in database
+Entry with movie title 'a vampire in brooklyn craven' not found in database
+Entry with movie title 'bowery at midnight' not found in database
+Entry with movie title 'shadow in the sky' not found in database
+Entry with movie title 'stalk the wild child' not found in database
+Entry with movie title 'city of angels' not found in database
+Entry with movie title 'terrible teddy' not found in database
+Entry with movie title 'four wives' not found in database
+Entry with movie title 'entscheidung vor morgengraung' not found in database
+Entry with movie title 'love laughs at andy hardy' not found in database
+Entry with movie title 'the pride of the yankees' not found in database
+Entry with movie title 'the lone ranger' not found in database
+Entry with movie title 'under western stars' not found in database
+Entry with movie title 'the lone ranger rides again' not found in database
+Entry with movie title 'the drums of fu manchu' not found in database
+Entry with movie title 'the perils of nyoka' not found in database
+Entry with movie title 'the cowboy and the senorita' not found in database
+Entry with movie title 'yellow rose of texas' not found in database
+Entry with movie title 'the cool and the crazy' not found in database
+Entry with movie title 'juvenile jungle' not found in database
+Entry with movie title 'the emperor and the assissin' not found in database
+Entry with movie title 'blockade' not found in database
+Entry with movie title 'luise, konigin von preussen' not found in database
+Entry with movie title 'tarzan's deadly silence' not found in database
+Entry with movie title 'shining through' not found in database
+Entry with movie title 'red dwarf' not found in database
+Entry with movie title 'black lizard' not found in database
+Entry with movie title 'ju dou' not found in database
+Entry with movie title 'raise the red lantern' not found in database
+Entry with movie title 'the story of qiu ju' not found in database
+Entry with movie title 'to live' not found in database
+Entry with movie title 'scudda-hoo scudda-hat' not found in database
+Entry with movie title 'asphalt jungle' not found in database
+Entry with movie title 'niagra' not found in database
+Entry with movie title 'the adventures of buckaroo banzai: across the 8th dimension' not found in database
+Entry with movie title 'within the law' not found in database
+Entry with movie title 'within the law' not found in database
+Entry with movie title 'the clemenceau case' not found in database
+Entry with movie title 'the stain' not found in database
+Entry with movie title 'lady audley's secret' not found in database
+Entry with movie title 'the vixen' not found in database
+Entry with movie title 'a fool there was' not found in database
+Entry with movie title 'sin' not found in database
+Entry with movie title 'the light' not found in database
+Entry with movie title 'destruction' not found in database
+Entry with movie title 'gold and the woman' not found in database
+Entry with movie title 'the serpent' not found in database
+Entry with movie title 'eternal sappho' not found in database
+Entry with movie title 'her double life' not found in database
+Entry with movie title 'cleopatra' not found in database
+Entry with movie title 'madame du barry' not found in database
+Entry with movie title 'under two flags' not found in database
+Entry with movie title 'camille' not found in database
+Entry with movie title 'heart and soul' not found in database
+Entry with movie title 'the tiger woman' not found in database
+Entry with movie title 'salome' not found in database
+Entry with movie title 'when a woman sins' not found in database
+Entry with movie title 'the forbidden path' not found in database
+Entry with movie title 'the she devil' not found in database
+Entry with movie title 'rose of the blood' not found in database
+Entry with movie title 'kathleen mavourneen' not found in database
+Entry with movie title 'la belle russe' not found in database
+Entry with movie title 'when men desire' not found in database
+Entry with movie title 'the siren's song' not found in database
+Entry with movie title 'a woman there was' not found in database
+Entry with movie title 'the price of silence' not found in database
+Entry with movie title 'her greatest love' not found in database
+Entry with movie title 'the unchastened woman' not found in database
+Entry with movie title 'madame mystery' not found in database
+Entry with movie title 'the dancer of paris' not found in database
+Entry with movie title 'tarzan the tiger' not found in database
+Entry with movie title 'tarzan the tiger' not found in database
+Entry with movie title 'hollywood bound' not found in database
+Entry with movie title 'her bridal night' not found in database
+Entry with movie title 'mademoiselle striptease' not found in database
+Entry with movie title 'the wonderful country' not found in database
+Entry with movie title 'the human duplicators' not found in database
+Entry with movie title 'i'll take manhattan' not found in database
+Entry with movie title 'say yes' not found in database
+Entry with movie title 'mr.holland's opus' not found in database

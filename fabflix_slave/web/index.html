@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="index.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <title>Fabflix</title>
+    <script type="text/javascript">
+        function getCurrentURL(form){
+            form.action = window.location.href;
+            let params = new URLSearchParams(window.location.search);
+            params.forEach(function(value, key) {
+                if (key === "sortBy" || key === "nElements"){
+                    return;
+                }
+                let x = document.createElement("input");
+                x.type = "hidden";
+                x.name = key;
+                x.value = value;
+                form.appendChild(x);
+            });
+            return true;
+        }
+
+        function getNextPageURL(form){
+            form.action = window.location.href;
+            let params = new URLSearchParams(window.location.search);
+            let pageVal = params.get("page");
+            if(pageVal === null){
+                pageVal = "1";
+            }
+            params.forEach(function(value, key) {
+                if (key === "page"){
+                    return;
+                }
+                let x = document.createElement("input");
+                x.type = "hidden";
+                x.name = key;
+                x.value = value;
+                form.appendChild(x);
+            });
+            let x = document.createElement("input");
+            x.type = "hidden";
+            x.name = "page";
+            x.value = (parseInt(pageVal) + 1).toString();
+            form.appendChild(x);
+
+            return true;
+        }
+
+        function getPreviousPageURL(form){
+            form.action = window.location.href;
+            let params = new URLSearchParams(window.location.search);
+            let pageVal = params.get("page");
+            if(pageVal === null){
+                pageVal = "1";
+            }
+            params.forEach(function(value, key) {
+                if (key === "page"){
+                    return;
+                }
+                let x = document.createElement("input");
+                x.type = "hidden";
+                x.name = key;
+                x.value = value;
+                form.appendChild(x);
+            });
+            let x = document.createElement("input");
+            x.type = "hidden";
+            x.name = "page";
+            x.value = (parseInt(pageVal) - 1).toString();
+            form.appendChild(x);
+
+            return true;
+        }
+    </script>
+</head>
+<body>
+<div style="width: 100%;">
+    <div id="top-left-div"><h1 id="home-link"><a href="main.html">Home</a></h1></div>
+    <div id="top-mid-left-div"><h1 id="search-header"><a href="search.html">Search</a></h1></div>
+    <div id="top-mid-right-div"><h1 id="browse-header"><a href="browse.html">Browse</a></h1></div>
+    <div id="top-right-div"><a id="check-out" href="checkout.html"><h3>Checkout</h3></a></div>
+</div>
+<div id="form-div">
+<form id="filter-form" onsubmit="return getCurrentURL(this)" METHOD="GET">
+    <label for="sortBy">Sort By:</label>
+    <select name="sortBy" id="sortBy">
+        <option value="none">None</option>
+        <option value="title-asc-rating-asc">Title (Alphabetically), then Rating (Ascending)</option>
+        <option value="title-asc-rating-desc">Title (Alphabetically), then Rating (Descending)</option>
+        <option value="title-desc-rating-asc">Title (Reverse Alphabetically), then Rating (Ascending)</option>
+        <option value="title-desc-rating-desc">Title (Reverse Alphabetically), then Rating (Descending)</option>
+        <option value="rating-asc-title-asc">Rating (Ascending), then Title (Alphabetically)</option>
+        <option value="rating-asc-title-desc">Rating (Ascending), then Title (Reverse Alphabetically)</option>
+        <option value="rating-desc-title-asc">Rating (Descending), then Title (Alphabetically)</option>
+        <option value="rating-desc-title-desc">Rating (Descending), then Title (Reverse Alphabetically)</option>
+    </select>
+
+    <label for="nElements">Results per Page:</label>
+    <select name="nElements" id="nElements">
+        <option value="10">10</option>
+        <option value="25">25</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+    </select>
+    <input TYPE="SUBMIT" VALUE="Filter">
+</form>
+</div>
+<table id=movie_table class="table table-striped">
+    <!-- Create a table header -->
+    <thead>
+    <tr>
+        <!-- Titles of each column-->
+        <th>Title</th>
+        <th>Year</th>
+        <th>Director</th>
+        <th>Genres</th>
+        <th>Stars</th>
+        <th>Rating</th>
+    </tr>
+    </thead>
+    <!-- Table body is left empty here, will be populated with the data retrieved with index.js -->
+    <!-- Again, id "star_table_body" is useful for jQuery to find this html element -->
+    <tbody id=movie_table_body></tbody>
+</table>
+<div style="width: 100%;padding-top: 20px;">
+<div id="prev-div">
+    <form id="previous-button" onsubmit="return getPreviousPageURL(this)" METHOD="get"></form>
+</div>
+<div id="next-div">
+    <form id="next-button" onsubmit="return getNextPageURL(this)" METHOD="get"></form>
+</div>
+</div>
+<!-- Load jQuery and Bootstrap JS !-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script type='text/javascript' src='index.js'></script>
+</body>
+</html>

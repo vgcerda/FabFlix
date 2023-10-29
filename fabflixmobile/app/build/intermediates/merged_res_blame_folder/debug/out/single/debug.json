@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/layout_searchview.xml.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/layout/searchview.xml"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/layout_row.xml.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/layout_login.xml.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/layout_singlemovieview.xml.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/layout/singlemovieview.xml"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/layout_listview.xml.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/layout/listview.xml"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/elmo/Desktop/cs122b-spring21-team-50/fabflixmobile/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

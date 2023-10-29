@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <!-- Required meta tags !-->
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS !-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="single-movie.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+
+    <title>Fabflix</title>
+    <style>
+        caption {text-align: center; caption-side: top; font-size: 30px; color: white; background-color: #6d597a; border-radius: 20px 20px 0 0;}
+    </style>
+</head>
+<body>
+<div style="width: 100%;">
+    <div id="top-left-div"></div>
+    <div id="top-mid-div"><h1 id="go-back-header"><a id="movie-list-href" href="#">Go Back</a></h1></div>
+    <div id="top-right-div"><a id="check-out" href="checkout.html"><h3>Checkout</h3></a></div>
+</div>
+<table id=single_movie_table class="table table-striped">
+    <caption id="single_movie_title"></caption>
+    <thead>
+    <tr>
+        <th>Title</th>
+        <th>Year</th>
+        <th>Director</th>
+        <th>Genres</th>
+        <th>Stars</th>
+        <th>Rating</th>
+    </tr>
+    </thead>
+    <tbody id=single_movie_table_body></tbody>
+</table>
+
+<!-- Load jQuery and Bootstrap JS !-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+<script src="single-movie.js?v=1"></script>
+</body>
+</html>

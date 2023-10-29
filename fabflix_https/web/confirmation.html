@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="confirmation.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <title>Fabflix</title>
+</head>
+<body>
+    <h1 id="thank-you">That's All, Thank you!</h1>
+    <h3 id="transaction-success" style="text-align: center">Transaction Successful</h3>
+    <table id=confirmation_table class="table table-striped">
+        <!-- Create a table header -->
+        <thead>
+        <tr>
+            <!-- Titles of each column-->
+            <th>Sale ID</th>
+            <th>Title</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr>
+        </thead>
+        <!-- Table body is left empty here, will be populated with the data retrieved with index.js -->
+        <!-- Again, id "star_table_body" is useful for jQuery to find this html element -->
+        <tbody id=confirmation_table_body></tbody>
+    </table>
+    <h2 id="final_price"></h2>
+    <img id="img" src="5869.jpg">
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+    <script type='text/javascript' src='confirmation.js'></script>
+</body>
+</html>

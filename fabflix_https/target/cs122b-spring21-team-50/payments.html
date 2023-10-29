@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="payments.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <title>Fabflix</title>
+</head>
+<body>
+<div id="col1">
+<table id=payments_table class="table table-striped">
+    <!-- Create a table header -->
+    <thead>
+    <tr>
+        <!-- Titles of each column-->
+        <th>Title</th>
+        <th>Quantity</th>
+        <th>Price</th>
+    </tr>
+    </thead>
+    <!-- Table body is left empty here, will be populated with the data retrieved with index.js -->
+    <!-- Again, id "star_table_body" is useful for jQuery to find this html element -->
+    <tbody id=payments_table_body></tbody>
+</table>
+<br>
+<h2 id="final_price"></h2>
+<br>
+</div>
+<form ACTION="#" id="payment-form" METHOD="POST">
+    <label><h3>Payment Information:</h3></label><br>
+    <label for="fname">First Name of Credit Card Holder:</label>
+    <input class="input-box" id="fname" name="fname" required="required" type="text"><br>
+    <label for="lname">Last Name of Credit Card Holder:</label>
+    <input class="input-box" id="lname" name="lname" required="required" type="text"><br>
+    <label for="card-num">Credit Card Number:</label>
+    <input class="input-box" id="card-num" name="card-num" required="required" type="text"><br>
+    <label for="exp">Expiration Date:</label>
+    <input class="input-box" id="exp" name="exp" required="required" type="text"><br>
+    <input class="input-box" type="submit" VALUE="Place Order">
+</form>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' src='payments.js'></script>
+</body>
+</html>
